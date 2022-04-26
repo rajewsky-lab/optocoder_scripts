@@ -1,0 +1,31 @@
+---
+  metadata:
+   run_optocoder_version: 0.1.1
+   name: 'inhouse'
+   type: 'inhouse'
+   save_path: "figures/run_1_optocoder_v.0.1.1"
+   
+  samples:
+   P1:
+    config_path: "test_runs/run_1_optocoder_v0.1.1/P1.yaml"
+    is_solid: False
+    puckcaller_barcodes_path: ""
+    name: "P1"
+
+   P2:
+    config_path: "test_runs/run_1_optocoder_v0.1.1/P2.yaml"
+    is_solid: False
+    puckcaller_barcodes_path: ""
+    name: "P2"
+
+   P3:
+    config_path: "test_runs/run_1_optocoder_v0.1.1/P3.yaml"
+    is_solid: False
+    puckcaller_barcodes_path: ""
+    name: "P3"
+
+   P4:
+    config_path: "test_runs/run_1_optocoder_v0.1.1/P4.yaml"
+    is_solid: False
+    puckcaller_barcodes_path: ""
+    name: "P4"

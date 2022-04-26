@@ -1,0 +1,22 @@
+--- 
+ image_folder_path: "datasets/imaging/slideseq/v1_180413_7"
+ file_name_seperator_loc: 4
+ num_cycles: 20
+ puck_id: 'v1_180413_7'
+ output_path: "optocoder_v0.1.1_stripped_output/slideseq/v1_180413_7"
+ illumina_path: "datasets/illumina/slideseq/v1_180413_7/v1_180413_7_barcodes.txt"
+ channels_to_use:
+  - 0
+  - 1
+  - 2
+  - 3
+ nuc_order:
+  - 'T'
+  - 'G'
+  - 'C'
+  - 'A'
+ is_solid: True
+ lig_seq: [1, 6, 0, 5, 4, 3, 2]
+ nuc_seq: [0, 1, 2, 3, 5, 7, 9, 10, 11, 12, 13, 15, 17, 19]
+
+ 

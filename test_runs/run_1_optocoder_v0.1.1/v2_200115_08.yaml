@@ -1,0 +1,17 @@
+--- 
+ image_folder_path: "datasets/imaging/slideseq/v2_200115_08"
+ file_name_seperator_loc: 4
+ num_cycles: 14
+ puck_id: 'v2_200115_08'
+ output_path: "optocoder_v0.1.1_stripped_output/slideseq/v2_200115_08"
+ illumina_path: "datasets/illumina/slideseq/v2_200115_08/v2_200115_08_barcodes.txt"
+ channels_to_use:
+  - 0
+  - 1
+  - 2
+  - 3
+ nuc_order:
+  - 'T'
+  - 'G'
+  - 'C'
+  - 'A'

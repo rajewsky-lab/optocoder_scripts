@@ -1,0 +1,31 @@
+---
+  metadata:
+   run_optocoder_version: 0.1.1
+   name: 'slideseq'
+   type: 'slideseq'
+   save_path: "figures/run_1_optocoder_v.0.1.1"
+
+  samples:
+   v1_180413_7:
+    config_path: "test_runs/run_1_optocoder_v0.1.1/v1_180413_7.yaml"
+    is_solid: True
+    puckcaller_barcodes_path: "datasets/external/slideseq/v1_180413_7/AllBeadBarcodes.csv"
+    name: "SSP1"
+
+   v1_180430_1:
+    config_path: "test_runs/run_1_optocoder_v0.1.1/v1_180430_1.yaml"
+    is_solid: True
+    puckcaller_barcodes_path: "datasets/external/slideseq/v1_180430_1/AllBeadBarcodes.csv"
+    name: "SSP2"
+
+   v1_180528_23:
+    config_path: "test_runs/run_1_optocoder_v0.1.1/v1_180528_23.yaml"
+    is_solid: True
+    puckcaller_barcodes_path: "datasets/external/slideseq/v1_180528_23/AllBeadBarcodes.csv"
+    name: "SSP3"
+
+   v2_200115_08:
+    config_path: "test_runs/run_1_optocoder_v0.1.1/v2_200115_08.yaml"
+    is_solid: False
+    puckcaller_barcodes_path: "datasets/external/slideseq/v2_200115_08/AllBeadBarcodes.csv"
+    name: "SSP4"

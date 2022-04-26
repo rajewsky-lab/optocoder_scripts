@@ -1,0 +1,17 @@
+--- 
+ image_folder_path: "datasets/imaging/inhouse/P1"
+ file_name_seperator_loc: 1
+ num_cycles: 12
+ puck_id: 'P1'
+ output_path: "optocoder_v0.1.1_stripped_output/inhouse/P1"
+ illumina_path: "datasets/illumina/inhouse/S1/topBarcodes.polyA_adapter_trimmed.100000_beads.txt"
+ channels_to_use:
+  - 0
+  - 1
+  - 4
+  - 5
+ nuc_order:
+  - 'C'
+  - 'A'
+  - 'T'
+  - 'G'
