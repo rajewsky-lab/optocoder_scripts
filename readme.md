@@ -1,4 +1,11 @@
-Data presented in the paper are generated with Optocoder v0.1.1. Figures metadata can be found below.
+This package provides plotting scripts for the figures presented in the Optocoder paper. Data presented in the paper are generated with Optocoder v0.1.1. The data can be downloaded from: https://doi.org/10.5281/zenodo.6492306
+
+Samples to run described in: samples_inhouse_figures_revision.yaml and samples_slideseq_figures_revision.yaml files. PLease make sure that download files' paths are correctly set in the test_run yaml files. Then basically run:
+
+```python3 plot_paper_figures.py  -sample_list samples_inhouse_figures_revision.yaml```
+
+
+Figures metadata can be found below.
 
 |             | Description                  | Used Pucks                                  | FLAG                 |   |
 |-------------|------------------------------|---------------------------------------------|------------------------|---|
